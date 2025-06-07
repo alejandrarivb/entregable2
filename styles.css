@@ -1,0 +1,28 @@
+body{
+	font-family: tahoma;
+	background: linear-gradient(90deg, rgba(179, 220, 255, 0.22) 0%, rgba(71, 90, 179, 0.1) 60%, rgba(20, 60, 235, 0.5) 100%); 
+}
+
+h1{
+	color: #0058a2;
+}
+
+p{
+	background-color: #ccdce9;
+	border-radius: 10px 50px 10px 50px;
+	padding: 10px 20px 10px 30px;
+	width: 50%;
+}
+
+img{
+	border-radius: 180px;
+	width: 15%;
+}
+
+h2{
+	color: #0076d7;
+	font-size: 20px;
+	padding: 0;
+	margin-bottom: 10px;
+	font-style: italic;
+}
